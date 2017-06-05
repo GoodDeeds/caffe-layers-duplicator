@@ -1,1 +1,1 @@
-# caffe-prototxt-generator
+# duplicate-prototxt-layers
