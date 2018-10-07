@@ -30,6 +30,7 @@
 *.exe
 *.out
 *.app
+caffe_layers_duplicator
 
-# Temporary files
+# Backup files
 *~

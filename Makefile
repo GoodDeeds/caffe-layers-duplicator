@@ -1,8 +1,8 @@
 CC = g++
 FLAGS = --std=c++11
-OBJS = duplicate_prototxt_layers.o
+OBJS = caffe_layers_duplicator.o
 
-EXECUTABLE = duplicate_prototxt_layers
+EXECUTABLE = caffe_layers_duplicator
 
 .PHONY = all clean
 
